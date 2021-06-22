@@ -1,5 +1,10 @@
 # NUS schedule generator
 
+Simple Python3 wrapper to access programmatically to the NUS sampling schedule generator from [Powers group](http://bionmr.unl.edu/) at Univeristy of Nebraska-Lincoln. The web version can be found [here](http://bionmr.unl.edu/dgs-gensched.php).
+
+The original work is based on the 2015 publication by Bradley Worley and Robert Powers [(PDF)]((http://bionmr.unl.edu/files/publications/126.pdf)).
+
+
 ## Installation
 
 ```bash
