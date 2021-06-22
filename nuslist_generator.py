@@ -104,8 +104,6 @@ def show_onscreen(nuslist, args):
     elif args.schedule_type == "spg":
         schedule_type = "Poisson-gap"
 
-    schedule_type = "Sine-burst"
-
     window = tk.Tk()
     window.title("NUS schedule")
 
